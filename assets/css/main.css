@@ -3380,7 +3380,7 @@ input, select, textarea {
 		-webkit-align-items: center;
 		-ms-align-items: center;
 		align-items: center;
-		background-image: url("../../images/banner.jpg");
+		background-image: url("../../images/alphago.jfif");
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
@@ -3415,7 +3415,7 @@ input, select, textarea {
 			display: block;
 			height: 100%;
 			left: 0;
-			opacity: 0.85;
+			opacity: 0.65;
 			position: absolute;
 			top: 0;
 			width: 100%;
@@ -3473,12 +3473,7 @@ input, select, textarea {
 					margin-right: 0;
 				}
 
-				#banner > .inner .content p {
-					font-size: 0.7em;
-					font-weight: 600;
-					letter-spacing: 0.25em;
-					text-transform: uppercase;
-				}
+				
 
 		#banner.major {
 			height: 75vh;
